@@ -1,5 +1,5 @@
 # codespaces-desktop-novnc
-Setting up a full Desktop Environment on a Github Codespace with noVNC
+Setting up a full Desktop Environment on a Github Codespace with noVNC. Works on both Github Codespaces and Gitpod.
 
 This repository is only for installing Xfce. For Lxqt, you can read more here:https://github.com/GitXpresso/LXQT-NoVNC
 
